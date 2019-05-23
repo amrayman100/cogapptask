@@ -13,3 +13,6 @@ https://cogtaskapp.herokuapp.com/report/?dims=country&fields=name,goal
 https://cogtaskapp.herokuapp.com/report/?dims=category&fields=name,goal,budget
 https://cogtaskapp.herokuapp.com/report/?dims=goal&fields=name,goal,budget
 
+Campaigns can be added using the post method in the form in the application, if the category is not specified
+it will get one from the extraction service
+
