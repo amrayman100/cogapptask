@@ -8,7 +8,7 @@ http://localhost:5000/report/?dims=goal&fields=name,goal,budget
 
 The project is also deployed and live on heroku and can be accessed through this link: https://cogtaskapp.herokuapp.com/
 
-Some Test Cases for the API when running the local file
+Some Test Cases for the API when running the deployed project
 https://cogtaskapp.herokuapp.com/report/?dims=country&fields=name,goal
 https://cogtaskapp.herokuapp.com/report/?dims=category&fields=name,goal,budget
 https://cogtaskapp.herokuapp.com/report/?dims=goal&fields=name,goal,budget
